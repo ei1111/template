@@ -1,0 +1,5 @@
+spring:
+
+logging:
+  level:
+    com.app: info # todo 패키지 수정
